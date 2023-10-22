@@ -49,3 +49,5 @@ Lead Your Way is a digital platform designed to simplify bike rentals for all ty
 Our mission is to provide you with the best possible biking experience, whether you're commuting through the city or tackling rugged trails. Lead Your Way offers the convenience of bike rentals at your fingertips, giving you the freedom to explore, exercise, and commute on your terms.
 
 **2023 © Lead Your Way - All rights reserved**
+
+[Visit Our Website](https://lead-your-way-nb.netlify.app/)
